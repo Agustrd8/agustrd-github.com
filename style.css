@@ -1,4 +1,4 @@
-*{
+
   margin:0;
   padding:0;
   box-sizing:border-box;
@@ -96,7 +96,6 @@ body{
   }
 }
 
-#heartContainer{
   display:flex;
   justify-content:center;
   align-items:center;
@@ -157,7 +156,6 @@ body{
   }
 }
 
-#loveContent{
   display:none;
   flex-direction:column;
   align-items:center;
@@ -166,7 +164,6 @@ body{
   padding:20px;
 }
 
-#loveContent h1{
   font-size:55px;
   color:#ff4fd8;
   text-shadow:
@@ -178,7 +175,6 @@ body{
   text-align:center;
 }
 
-.photo-gallery{
   display:flex;
   gap:25px;
   flex-wrap:wrap;
@@ -218,7 +214,6 @@ body{
     width:90%;
   }
 
-  #loveContent h1{
     font-size:35px;
   }
 
